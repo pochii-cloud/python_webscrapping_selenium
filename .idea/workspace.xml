@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17612d3a-b81a-41d1-95be-ddd913a4b9fe" name="Default Changelist" comment="" />
+    <list default="true" id="17612d3a-b81a-41d1-95be-ddd913a4b9fe" name="Default Changelist" comment="">
+      <change beforePath="D:/PycharmProjects/scrapping/.idea/workspace.xml" beforeDir="false" afterPath="D:/PycharmProjects/scrapping/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/PycharmProjects/scrapping/main.py" beforeDir="false" afterPath="D:/PycharmProjects/scrapping/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/PycharmProjects/scrapping" />
   </component>
   <component name="ProjectId" id="1zrDEDCFlGkpg8pgqPdZbAU7jUE" />
   <component name="ProjectViewState">
@@ -51,21 +57,23 @@
       <updated>1634897198853</updated>
       <workItem from="1634897231477" duration="177000" />
       <workItem from="1634913102160" duration="45000" />
+      <workItem from="1635763664466" duration="283000" />
+      <workItem from="1636015557597" duration="1203000" />
+      <workItem from="1636018846321" duration="469000" />
+      <workItem from="1636115649262" duration="312000" />
+      <workItem from="1636116428900" duration="747000" />
+      <workItem from="1636144412943" duration="1096000" />
+      <workItem from="1636146118301" duration="215000" />
+      <workItem from="1636185198363" duration="1288000" />
+      <workItem from="1636188900197" duration="40000" />
+      <workItem from="1636277165486" duration="3896000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://D:/PycharmProjects/scrapping/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrapping$main.coverage" NAME="main Coverage Results" MODIFIED="1636281031576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/PycharmProjects/scrapping" />
   </component>
 </project>
