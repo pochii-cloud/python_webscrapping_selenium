@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17612d3a-b81a-41d1-95be-ddd913a4b9fe" name="Default Changelist" comment="commit two">
-      <change beforePath="D:/PycharmProjects/scrapping/.idea/workspace.xml" beforeDir="false" afterPath="D:/PycharmProjects/scrapping/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/PycharmProjects/scrapping/main1.py" beforeDir="false" afterPath="D:/PycharmProjects/scrapping/main.py" afterDir="false" />
-      <change beforePath="D:/PycharmProjects/scrapping/test_case/Element.py" beforeDir="false" />
-      <change beforePath="D:/PycharmProjects/scrapping/test_case/Locator.py" beforeDir="false" />
-      <change beforePath="D:/PycharmProjects/scrapping/test_case/main.py" beforeDir="false" />
-      <change beforePath="D:/PycharmProjects/scrapping/test_case/page.py" beforeDir="false" />
-    </list>
+    <list default="true" id="17612d3a-b81a-41d1-95be-ddd913a4b9fe" name="Default Changelist" comment="commit two" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +83,7 @@
       <workItem from="1636313640172" duration="40000" />
       <workItem from="1636357560626" duration="4861000" />
       <workItem from="1636385141830" duration="56000" />
-      <workItem from="1636451409915" duration="3746000" />
+      <workItem from="1636451409915" duration="4054000" />
     </task>
     <task id="LOCAL-00001" summary="commit two">
       <created>1636281271842</created>
